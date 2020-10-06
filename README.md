@@ -1,6 +1,7 @@
 # Shopping-List-Generator
 
-Allows the user to input recipe ingredients for different meals, then use these ingredients lists to generate a weekly shopping list.
+This application is designed to help you compile a single shopping list from all your regular recipes!
+It allows the user to input recipe ingredients for different meals, then use these ingredients lists to generate a weekly shopping list.
 
 # How it works:
 Running shoplist.py will launch the shopping helper, from there you are able to:
